@@ -1,0 +1,4 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+Tesseract-OCR/** filter=lfs diff=lfs merge=lfs -text
+Poppler/bin/** filter=lfs diff=lfs merge=lfs -text
+dist/SiwarIR.exe filter=lfs diff=lfs merge=lfs -text
