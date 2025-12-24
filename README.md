@@ -19,7 +19,7 @@
 ## Requirements
 - **Windows 10/11** ( 64-bit)  
 - **No Python installation required** (EXE is portable)  
-- Minimum disk space: ~50 MB for EXE + bundled files
+- Minimum disk space: ~130 MB for EXE + bundled files
 
 > For developers who want to run from source, Python 3.x and the following libraries are required:
 ```bash
